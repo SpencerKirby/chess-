@@ -1,3 +1,7 @@
+"""
+Spencer Kirby 8/9/23
+chess
+"
 let = "ABCDEFGH"
 turn = 1
 board = [
